@@ -58,3 +58,5 @@ document.querySelector("#btn_re").addEventListener("click", () => {
   document.querySelector("#seven-gpa").value = "";
   document.querySelector("#eight-gpa").value = "";
 });
+
+console.log("hey there");
